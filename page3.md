@@ -134,7 +134,7 @@ Lecture au Centro de Investigaciones Biológicas de Madrid
 
 ### Publications1
 (no style)
-nmredata symposium paper:
+```
     72
     Paul Trevorrow, Damien Jeannerat
     "Reporting on the 1st NMReDATA Symposium, 26th September 2019, Porto, Portugal"
@@ -423,6 +423,7 @@ nmredata symposium paper:
     D. Jeannerat et G. Bodenhausen
     “Determination of active scalar coupling constants by two-dimensional convolution of complementary cross-peak multiplets”
     J. Magn. Reson. Ser. A 1995, 117, 123-127
+```
 
 ### PublicationsV2
 
