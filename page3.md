@@ -1,25 +1,30 @@
+### Slowly restoring the website of Damien Jeannerat after departure from the department 
+Many thanks to [Wayback Machine](https://archive.org/web/)
 https://www.unige.ch/sciences/chiorg/jeannerat/
-
+### CV (English)
 Damien Jeannerat was born in Geneva, Switzerland in 1970. After graduation from the University of Geneva in chemistry and biochemistry in 1994, he entered a Ph.D. program in Nuclear Magnetic Resonance (NMR) methodology under the supervision of Geoffrey Bodenhausen at the National High Magnetic Field Laboratory at Florida State University in Tallahasse, Florida. In 1997 he completed his Ph.D. thesis, entitled "Progress in Cross-Peak Structure Analysis in Two-Dimensional NMR Spectroscopy" at the University of Lausanne. Between 1997 and 2019 he works at the Organic Chemistry Department at the University of Geneva, first as a post doctoral student, and then, as an group leader financed by the State and the Swiss National Fund. 
+### CV (french)
 
 Damien Jeannerat est né à Genève en 1970 et a obtenu son diplôme en chimie à l'Université de Genève en 1994. Après une thèse en méthodologie de la Résonance Magnétique Nucléaire sous la direction du Professeur Geoffrey Bodenhausen en 1997 (Université de Lausanne et National High Magnetic Field Laboratory de Tallahasse en Floride/USA), il a poursuivit ses recherches au Département de Chimie Organique de l'Université de Genève, d'abord dans le cadre d'un post-doc avec le prof. U. Burger, puis comme chercheur indépendant (Maître Assistant). Entre octobre 2004 et Août 2019, il était Maître d'enseignement et de recherche.
 
 Membre-associé de la commission éditoriale de Magnetic Resonance in Chemistry  depuis 2016. Leader de l'initiative "NMReDATA" visant à définir un format de fichier multi-plateforme unifié et compatible avec les bases de données pour les données RMN extraites de l'analyse complète des composés organiques.
 
+### Conferences 
+(needs corrections Fr->En)
 
-Conferences
-    NSF OAC 2019 Workshop: FAIR Publishing Guidelines for Spectral Data and Chemical Structures
-    March 29, 2019, Orlando, Florida
-    "NMReData and reuse of spectral data"
-
-    Société chimique de Genève
-    February 5 2018 , Geneva, Switzerland
-    "Développements récents de la Résonance magnétique nucléaire dans le domaine de la chimie"
-
+```
+NSF OAC 2019 Workshop: FAIR Publishing Guidelines for Spectral Data and Chemical Structures
+March 29, 2019, Orlando, Florida
+"NMReData and reuse of spectral data"
+    
+Société chimique de Genève
+February 5 2018 , Geneva, Switzerland
+"Développements récents de la Résonance magnétique nucléaire dans le domaine de la chimie"
+    
 SMASH 2018
 September 19, 2018, Philadelphia, USA
 "Generation of high-quality data using the NMReDATA format and top resolution 2D spectra of natural products"
-
+  
 Symposium on cheminformatics 2018
 September 14, 2018, Lausanne, Switzerland
 "NMReDATA: a format and a good practice to exchange NMR parameters associated to chemical structures"
@@ -122,12 +127,12 @@ Lecture au Centro de Investigaciones Biológicas de Madrid
 19 août 2008, Philadelphie, PA, USA
 ♦  	"Application of computer-optimized spectral aliasing (COSA) for the fast acquisition of high-resolution 2-D heteronuclear experiments"
  
-
+```
  
 
-Publications
+### Publications1
+(no style)
 
- 
 
     J. B. McAlpine, S.-N. Chen, A. Kutateladze, J. B. MacMillan, G. Appendino, A. Barison, M. A. Beniddir, M. W. Biavatti, S. Bluml, A. Boufridi, M. S. Butler, R. J. Capon, Y. H. Choi, D. Coppage, P. Crews, M. T. Crimmins, M. Csete, P. Dewapriya, J. M. Egan, M. J. Garson, G. Genta-Jouve, W. H. Gerwick, H. Gross, M. K. Harper, P. Hermanto, J. M. Hook, L. Hunter, D. Jeannerat, N.-Y. Ji, T. A. Johnson, D. G. I. Kingston, H. Koshino, H.-W. Lee, G. Lewin, J. Li, R. G. Linington, M. Liu, K. L. McPhail, T. F. Molinski, B. S. Moore, J.-W. Nam, R. P. Neupane, M. Niemitz, J.-M. Nuzillard, N. H. Oberlies, F. M. M. Ocampos, G. Pan, R. J. Quinn, D. S. Reddy, J.-H. Renault, J. Rivera-Chávez, W. Robien, C. M. Saunders, T. J. Schmidt, C. Seger, B. Shen, C. Steinbeck, H. Stuppner, S. Sturm, O. Taglialatela-Scafati, D. J. Tantillo, R. Verpoorte, B.-G. Wang, C. M. Williams, P. G. Williams, J. Wist, J.-M. Yue, C. Zhang, Z. Xu, C. Simmler, D. C. Lankin, J. Bisson et G. F. Pauli
     “The value of universally available raw NMR data for transparency, reproducibility, and integrity in natural product research”
@@ -405,6 +410,7 @@ Publications
     “Determination of active scalar coupling constants by two-dimensional convolution of complementary cross-peak multiplets”
     J. Magn. Reson. Ser. A 1995, 117, 123-127
 
+### PublicationsV2
 
 <i>Nat. Prod. Rep.</i>, sous presse</li></ol>
 </div></a><a style="color:black;" href="publications?num=68"><div style="margin:0px;padding:0px;" onmouseover="this.style.backgroundColor='#e6e6e6'" onmouseout="this.style.backgroundColor='#ffffff'"><ol style="-webkit-padding-start:1.8em; margin:0px;padding-top:6px;padding-bottom:6px;"><li value="68" style="margin:0px;" class="pubNum">
@@ -679,7 +685,8 @@ D. Jeannerat et G. Bodenhausen<br>&ldquo;Accurate determination of passive coupl
 D. Jeannerat et G. Bodenhausen<br>&ldquo;Determination of active scalar coupling constants by two-dimensional convolution of complementary cross-peak multiplets&rdquo;
 <br>
 <i>J. Magn. Reson. Ser. A</i> <b>1995</b>, <i>117</i>, 123-127</li></ol>
-Damien Jeannerat
+    
+###  Former adress
 
     Maître d'enseignement et de recherche
 
