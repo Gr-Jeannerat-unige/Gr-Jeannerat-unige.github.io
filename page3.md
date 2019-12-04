@@ -8,13 +8,13 @@ Membre-associé de la commission éditoriale de Magnetic Resonance in Chemistry 
 
 
 Conferences
--NSF OAC 2019 Workshop: FAIR Publishing Guidelines for Spectral Data and Chemical Structures
- March 29, 2019, Orlando, Florida
- "NMReData and reuse of spectral data"
+    NSF OAC 2019 Workshop: FAIR Publishing Guidelines for Spectral Data and Chemical Structures
+    March 29, 2019, Orlando, Florida
+    "NMReData and reuse of spectral data"
 
--Société chimique de Genève
- February 5 2018 , Geneva, Switzerland
- "Développements récents de la Résonance magnétique nucléaire dans le domaine de la chimie"
+    Société chimique de Genève
+    February 5 2018 , Geneva, Switzerland
+    "Développements récents de la Résonance magnétique nucléaire dans le domaine de la chimie"
 
 SMASH 2018
 September 19, 2018, Philadelphia, USA
