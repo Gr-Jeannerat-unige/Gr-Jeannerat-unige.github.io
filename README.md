@@ -2,7 +2,7 @@
 
 The group was active from 2000 to 2019 at the Department of organic chemistry at the University of Geneva.
 
-# Research activity 
+# Research interests 
 - [High-resolution in 2D NMR](page2)
 - [Special processing techniques](page3)
 - [Tutorials](page4)
