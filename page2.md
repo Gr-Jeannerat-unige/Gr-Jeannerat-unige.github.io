@@ -61,11 +61,11 @@ dfg dfs d dfas dfg a  dfgas  fds g sdg dfs g s dfggdfsgds fgs dfg ds fgsg ds gs 
 
 g
 dfg
-wor2d.[<sup>[ref.]</sup>](# [2])
+wor2d.[<sup>[ref.]</sup>](#[2])
 
-wor22d.[<sup>[ref2.]</sup>](#### [2])
+wor22d.[<sup>[ref2.]</sup>](####[2])
 
-wor22d.[<sup>[ref2.]</sup>](# R1)
+wor22d.[<sup>[ref2.]</sup>](#R1)
 
 
 gf
