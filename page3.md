@@ -1,38 +1,83 @@
-CV français
-Damien Jeannerat est né à Genève en 1970 et a obtenu son diplôme en chimie à l'Université de Genève en 1994. Après une thèse en méthodologie de la Résonance Magnétique Nucléaire sous la direction du Professeur Geoffrey Bodenhausen en 1997 (Université de Lausanne et National High Magnetic Field Laboratory de Tallahasse en Floride/USA), il poursuit ses recherches au Département de Chimie Organique de l'Université de Genève, d'abord dans le cadre d'un post-doc avec le prof. U. Burger, puis comme chercheur indépendant (Maître Assistant). Depuis octobre 2004 il est Maître d'enseignement et de recherche.
+https://www.unige.ch/sciences/chiorg/jeannerat/
 
-Membre-associé de la commission éditoriale de Magnetic Resonance in Chemistry  depuis 2016, et éditeur d'un numéro spécial sur les "Outils logiciels et didacticiels en RMN liquide". Leader de l'initiative "NMReDATA" visant à définir un format de fichier multi-plateforme unifié et compatible avec les bases de données pour les données RMN extraites de l'analyse complète des composés organiques.
+Damien Jeannerat was born in Geneva, Switzerland in 1970. After graduation from the University of Geneva in chemistry and biochemistry in 1994, he entered a Ph.D. program in Nuclear Magnetic Resonance (NMR) methodology under the supervision of Geoffrey Bodenhausen at the National High Magnetic Field Laboratory at Florida State University in Tallahasse, Florida. In 1997 he completed his Ph.D. thesis, entitled "Progress in Cross-Peak Structure Analysis in Two-Dimensional NMR Spectroscopy" at the University of Lausanne. Between 1997 and 2019 he works at the Organic Chemistry Department at the University of Geneva, first as a post doctoral student, and then, as an group leader financed by the State and the Swiss National Fund. 
+
+Damien Jeannerat est né à Genève en 1970 et a obtenu son diplôme en chimie à l'Université de Genève en 1994. Après une thèse en méthodologie de la Résonance Magnétique Nucléaire sous la direction du Professeur Geoffrey Bodenhausen en 1997 (Université de Lausanne et National High Magnetic Field Laboratory de Tallahasse en Floride/USA), il a poursuivit ses recherches au Département de Chimie Organique de l'Université de Genève, d'abord dans le cadre d'un post-doc avec le prof. U. Burger, puis comme chercheur indépendant (Maître Assistant). Entre octobre 2004 et Août 2019, il était Maître d'enseignement et de recherche.
+
+Membre-associé de la commission éditoriale de Magnetic Resonance in Chemistry  depuis 2016. Leader de l'initiative "NMReDATA" visant à définir un format de fichier multi-plateforme unifié et compatible avec les bases de données pour les données RMN extraites de l'analyse complète des composés organiques.
 
 
 Conferences
+-NSF OAC 2019 Workshop: FAIR Publishing Guidelines for Spectral Data and Chemical Structures
+ March 29, 2019, Orlando, Florida
+ "NMReData and reuse of spectral data"
 
+-Société chimique de Genève
+ February 5 2018 , Geneva, Switzerland
+ "Développements récents de la Résonance magnétique nucléaire dans le domaine de la chimie"
+
+SMASH 2018
+September 19, 2018, Philadelphia, USA
+"Generation of high-quality data using the NMReDATA format and top resolution 2D spectra of natural products"
+
+Symposium on cheminformatics 2018
+September 14, 2018, Lausanne, Switzerland
+"NMReDATA: a format and a good practice to exchange NMR parameters associated to chemical structures"
+
+IUPAC/CODATA workshop "Supporting FAIR Exchange of Chemical Data through Standards Development"
+July 15, 2018, Amsterdam, Netherland
+"The NMReDATA Initiative"
+
+Euromar 2018
+July 4, 2018, Nantes, France
+"Presentation and discussion of the NMReDATA Initiative"
+
+Euromar 2018
+July 3, 2018, Nantes, France
+"Processing high-resolution 2D spectra. Towards a more robust fully automated extraction of NMR parameters"
+
+Chemistry Geneva days 2018
+January 19, 2018, Geneva, Switzerland
+"Highly resolved pure shift 2D NMR experiments for fast spectral assignment" presented by Marta Brucka
+
+Swiss NMR symposium 2018
+January 16, 2018, Zurich, Switzerland
+"Combining pulse-sequence development with processing techniques to reach top resolution in 2D spectra of small molecules"
+
+SMASH 2017
+September 19, 2017, Baveno, Italy
+"Organisation and moderation of a *Round table discussion of the NMReDATA Initiative*"
+
+Euromar 2017
+July 4, 2017, Warsaw, Poland
+"A toolbox of 2D homonuclear experiments providing simplified and highly resolved spectra" presented by Marta Brucka
 
 18th Central and Eastern European NMR Symposium
-19 septembre 2016, Sofia, Bulgarie
-♦  	"Top-resolution in 2D spectra of small molecules combining homonuclear decoupling, spectral aliasing and 2D-lineshape deconvolution"
+September 19 2016, Sofia, Bulgaria
+"Top-resolution in 2D spectra of small molecules combining homonuclear decoupling, spectral aliasing and 2D-lineshape deconvolution"
 
 21st Swiss NMR symposium
-4 février 2016, Lausanne, Suisse
-♦  	"Application of the combination of selective pulses with PFG gradients to homonuclear decoupling and slice-selective experiments"
+4 février 2016, Lausanne, Switzerland
+"Application of the combination of selective pulses with PFG gradients to homonuclear decoupling and slice-selective experiments"
 
 Invitation à donner une conférence / Prof. Svetlana Simova, Bul. acad. of sciences
-22 octobre 2015, Sofia, Bulgarie
-♦  	"Elimination of scalar interactions in the indirect 13C or 1H dimension of 2D spectra"
+22 octobre 2015, Sofia, Bulgaria
+"Elimination of scalar interactions in the indirect 13C or 1H dimension of 2D spectra"
 
 SMASH 2015
-20 septembre 2015, Baveno, Italie
-♦  	"Elimination of scalar interactions in the 13C or 1H dimensions of 2D spectra, with application to 13C-enriched products"
+20 septembre 2015, Baveno, Italy
+"Elimination of scalar interactions in the 13C or 1H dimensions of 2D spectra, with application to 13C-enriched products"
 
 SCS Fall meeting 2015
-9 septembre 2015, Lausanne, Suisse
-♦  	"Quick and easy NMR titration using slice-selective experiments to study concentration gradients in agar gels" (par le Dr. Yavor Mitrev, Post-doc)
+9 septembre 2015, Lausanne, Switzerland
+"Quick and easy NMR titration using slice-selective experiments to study concentration gradients in agar gels" (par le Dr. Yavor Mitrev, Post-doc)
 
 Euromar 2014
-29 juin 2014, Zurich, Suisse
+29 juin 2014, Zurich, Switzerland
 ♦  	"Proton homodecoupling with enhanced resolution and sensitivity" (by Axelle Cotte, PhD Student)
 
 20th Swiss NMR symposium
-14 janvier 2014, Bâle, Suisse
+14 janvier 2014, Basel, Switzerland
 ♦  	"High-Resolution Homodecoupling"
 
 Invitation à donner une conférence / Prof. Svetlana Simova, Bul. acad. of sciences
@@ -40,7 +85,7 @@ Invitation à donner une conférence / Prof. Svetlana Simova, Bul. acad. of scie
 ♦  	"High resolution in common 2D NMR experiments. Application to the structure determination of small molecules, the analysis of mixtures and NMR titrations"
 
 SCS Fall meeting 2013
-6 septembre 2013, Lausanne, Suisse
+6 septembre 2013, Lausanne, Switzerland
 ♦  	"A new approach to separate chemical shift and scalar coupling of 1D proton NMR spectra" (par Axelle Cotte, doctorante)
 
 Détection et Acquisition en Résonance Magnétique (GERM 2010)
@@ -56,7 +101,7 @@ Small molecule NMR Conference
 ♦  	"Applications of spectral aliasing to the study of complex mixtures using 2D HSQC spectra"
 
 57th International Congress and Annual Meeting of the Society For Medicinal Plant and Natural Product Research
-16-20 août 2009, Genève, Suisse
+16-20 août 2009, Genève, Switzerland
 ♦  	"Spectral aliasing in 2D-NMR. A straightforward method to considerably increase the resolution of signal clusters and facilitate identification of two cubebin epimers in Drimys winteri"
 
 Conférence à la section "Champagne-Ardenne" de la "Société Chimique de France"
@@ -64,197 +109,21 @@ Conférence à la section "Champagne-Ardenne" de la "Société Chimique de Franc
 ♦  	"Haute résolution par repliement spectral en RMN à deux dimensions"
 
 1st Latin American NMR School
-21 novembre 2008, Bogotá, Colombie
+21 novembre 2008, Bogotá, Colombia
 ♦  	"Use of DFT calculations for natural product structure validation"
 ♦  	"Application of spectral aliasing in the dynamic studies, pk determination, binding constants"
 ♦  	"High Resolution in 2D spectra"
 
 Lecture au Centro de Investigaciones Biológicas de Madrid
-17 novembre 2008, Madrid, Espagne
+17 novembre 2008, Madrid, Spain
 ♦  	"Methodology and applications of spectral aliasing. From small molecules to small proteins"
 
 236th ACS National Meeting, Division of Physical Chemistry, Fundamental Advances in Contemporary NMR Spectroscopy: Emerging Methods in Small Molecule NMR
 19 août 2008, Philadelphie, PA, USA
 ♦  	"Application of computer-optimized spectral aliasing (COSA) for the fast acquisition of high-resolution 2-D heteronuclear experiments"
  
- <div class="o-Col">
-	<h2 style="width:100%" class="c-NewsWall-title">Lectures et conférences</h2>
-<br>&nbsp;
-<h4 style="margin-bottom:0;">Lectures en 2008-2016 / <a class="stndLnk" href="lectures#conf">⇒ Organisation de conférences</a></h4>
-      <div class="o-Grid o-Grid--main o-Col">
-        <div class="o-Col unige-toc-content">
 
-<p style="margin-bottom:0;"><b><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://ceum2016.orgchm.bas.bg/Programme.html">18th Central and Eastern European NMR Symposium</a></b>
-<br><i>19 septembre 2016, Sofia, Bulgarie</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Top-resolution in 2D spectra of small molecules combining homonuclear decoupling, spectral aliasing and 2D-lineshape deconvolution"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>21st Swiss NMR symposium</b>
-<br><i>4 février 2016, Lausanne, Suisse</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Application of the  combination of selective pulses  with PFG gradients to homonuclear decoupling and  slice-selective experiments"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>Invitation à donner une conférence / 
-Prof. Svetlana Simova, Bul. acad. of sciences</b>
-<br><i>22 octobre 2015, Sofia, Bulgarie</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Elimination of scalar interactions in the indirect <sup>13</sup>C or <sup>1</sup>H dimension of 2D spectra"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.smashnmr.org/previous-conferences/smash-2015">SMASH 2015</a></b>
-<br><i>20 septembre 2015, Baveno, Italie</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Elimination of scalar interactions in the <sup>13</sup>C or <sup>1</sup>H dimensions of 2D spectra, with application to <sup>13</sup>C-enriched products"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>SCS Fall meeting 2015</b>
-<br><i>9 septembre 2015, Lausanne, Suisse</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Quick and easy NMR titration using slice-selective experiments to study concentration gradients in agar gels" 
-<nobr>(par le Dr. Yavor Mitrev, Post-doc)</nobr></td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://euromar2014.org/">Euromar 2014</a></b>
-<br><i>29 juin 2014, Zurich, Suisse</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Proton homodecoupling with enhanced resolution and sensitivity" (by Axelle Cotte, PhD Student)
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.chemie.unibas.ch/~swissnmr2014/WEBSITE/Scientific%20program.html">20th Swiss NMR symposium</a></b>
-<br><i>14 janvier 2014, Bâle, Suisse</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"High-Resolution Homodecoupling"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>Invitation à donner une conférence /
-Prof. Svetlana Simova, Bul. acad. of sciences</b>
-<br><i>21 octobre 2013, Sofia, Bulgarie</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"High resolution in common 2D NMR experiments. Application to the structure determination of small molecules, the analysis of mixtures and NMR titrations"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>SCS Fall meeting 2013</b>
-<br><i>6 septembre 2013, Lausanne, Suisse</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"A new approach to separate chemical shift and scalar coupling of 1D proton NMR spectra" (par Axelle Cotte, doctorante)
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://thcgerm.free.fr/spip.php?article2">Détection et Acquisition en Résonance Magnétique (GERM 2010)</a></b>
-<br><i>4-7 mai 2010, Saint-Dié, France</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Repliement spectral de la dimention <sup>13</sup>C. Un puissant outil d'étude de mélanges complexes de petites molécules utilisants des expériences basées sur l'HSQC"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>XIIème Journée RMN du Grand Sud Est</b>
-<br><i>16 octobre 2009, Marseille, France</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Spectral Aliasing in 2D <sup>1</sup>H-<sup>13</sup>C HSQC, HMBC, etc. Application to the study of complex mixtures"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.smashnmr.org/previous-conferences/17-smash-2009">Small molecule NMR Conference</a></b>
-<br><i>21 septembre 2009, Chamonix, France</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Applications of spectral aliasing to the study of complex mixtures using 2D HSQC spectra"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>57th International Congress and Annual Meeting of the <a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.ga-online.org/">Society For Medicinal Plant and Natural Product Research</a></b>
-<br><i>16-20 août 2009, Genève, Suisse</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Spectral aliasing in 2D-NMR. A straightforward method to considerably increase the resolution of signal clusters and facilitate identification of two cubebin epimers in Drimys winteri"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>Conférence à la section "Champagne-Ardenne" de la "<a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.societechimiquedefrance.fr/">Société Chimique de France</a>"</b>
-<br><i>15 janvier 2009, Reims, France</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Haute résolution par repliement spectral en RMN à deux dimensions"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>1st Latin American NMR School</b>
-<br><i>21 novembre 2008, Bogotá, Colombie</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Use of DFT calculations for natural product structure validation"
-</td></tr>
-<tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Application of spectral aliasing in the dynamic studies, pk determination, binding constants"
-</td></tr>
-<tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"High Resolution in 2D spectra"
-</td></tr>
-</tbody></table>
-
-<p style="margin-bottom:0;"><b>Lecture au <a class="stndLnk" href="https://web.archive.org/web/20181128085248/https://www.cib.csic.es/"><i>Centro de Investigaciones Biológicas</i></a> de Madrid</b>
-<br><i>17 novembre 2008, Madrid, Espagne</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Methodology and applications of spectral aliasing. From small molecules to small proteins"
-</td></tr>
-</tbody></table>
-<a name="conf"></a>
-<p style="margin-bottom:0;"><b>236th ACS National Meeting</b>, Division of Physical Chemistry, Fundamental Advances in Contemporary NMR Spectroscopy: Emerging Methods in Small Molecule NMR
-<br><i>19 août 2008, Philadelphie, PA, USA</i>
-</p><table style="margin-bottom:12px;"><tbody><tr><td width="10" valign="top">♦&nbsp;</td>
-<td>
-"Application of computer-optimized spectral aliasing (COSA) for the fast acquisition of high-resolution 2-D heteronuclear experiments"
-</td></tr>
-</tbody></table>
-        </div>
-      </div>
-
-<a name="conf">&nbsp;</a><h4 style="margin-bottom:0;">Organisation de conférences / <a class="stndLnk" href="#lect">⇒ Lectures</a></h4>
-      <div class="o-Grid o-Grid--main o-Col">
-        <div class="o-Col unige-toc-content">
-
-<p style="margin-bottom:18px;"><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.unige.ch/nmrsymp2009/"><b>18th Swiss NMR symposium</b></a> (président)
-<br><i>9 septembre 2009, Genève, Suisse</i>
-
-</p><p style="margin-bottom:18px;"><a class="stndLnk" href="https://web.archive.org/web/20181128085248/http://www.unige.ch/sciences/chiorg/matile/old-web17/villars/"><b>Summer School on Functional Biosupramolecular Systems</b></a> (co-président avec le Prof. S. Matile)
-<br><i>23-27 août 2009, Villars, Suisse</i>
-
-
-
-    </p></div>
-  </div>
-</div>
  
-Organisation de conférences / ⇒ Lectures
-
-18th Swiss NMR symposium (président)
-9 septembre 2009, Genève, Suisse
-
-Summer School on Functional Biosupramolecular Systems (co-président avec le Prof. S. Matile)
-23-27 août 2009, Villars, Suisse
 
 Publications
 
