@@ -10,7 +10,7 @@ High-resolution in 2D NMR
 # Group members 
 ## Post-Doc 
 *Under construction*
-#### Dr. Yavor Mitrev
+### Dr. Yavor Mitrev
 - NMR titration in one-shot NMR experiment 
 
 ## PhD students 
