@@ -33,10 +33,7 @@ activity
 - co-organization of the [XXIII Swiss NMR symposium](https://indico.cern.ch/event/775177/) 14 Jan 2019, CERN/Meyrin, Switzerland
 
 *Under construction*
-[test1](page2)
 
-[t4es1](page2.md)
+[this is linnk to page2](page2)
 
-[te21](page2.html)
 
-[te31](page2.htm)
