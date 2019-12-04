@@ -1,6 +1,6 @@
-## Activity at the Department of organic chemistry
+## Group Jeannerat
 
-The group from 2000 to 2019.
+The group was active from 2000 to 2019 at the Department of organic chemistry at the University of Geneva.
 
 # Research activity 
 - [High-resolution in 2D NMR](page2)
