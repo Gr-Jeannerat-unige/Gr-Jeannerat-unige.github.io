@@ -28,7 +28,7 @@ High-resolution in 2D NMR
 
 # Conference organization 
 
-- co-organization of the [1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/)
-- co-organization of the [XXIII Swiss NMR symposium](https://indico.cern.ch/event/775177/)
+- co-organization of the [1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/) 26 Sept 2019, Porto, Portugal
+- co-organization of the [XXIII Swiss NMR symposium](https://indico.cern.ch/event/775177/) 14 Jan 2019, CERN/Meyrin, Switzerland
 
 *Under construction*
