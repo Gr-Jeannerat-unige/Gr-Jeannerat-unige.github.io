@@ -8,7 +8,14 @@ The group from 2000 to 2019.
 High-resolution in 2D NMR
 
 # Group members 
+## Post-Doc 
+*Under construction*
+#### Dr. Yavor Mitrev
+- NMR titration in one-shot NMR experiment 
 
+## PhD students 
+*Under construction*
+## Master students 
 *Under construction*
 
 # publications 
@@ -21,7 +28,7 @@ High-resolution in 2D NMR
 
 # Conference organization 
 
-[co-organization of 1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/)
-[co-organization of the XXIII Swiss NMR symposium](https://indico.cern.ch/event/775177/)
+- co-organization of the [1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/)
+- co-organization of the [XXIII Swiss NMR symposium](https://indico.cern.ch/event/775177/)
 
 *Under construction*
