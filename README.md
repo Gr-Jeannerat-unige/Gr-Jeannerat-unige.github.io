@@ -5,8 +5,9 @@ The group from 2000 to 2019.
 # Research activity 
 
 *Under construction*
-High-resolution in 2D NMR
-
+[High-resolution in 2D NMR](page2)
+[Special processing techniques](page3)
+[Tutorials](page4)
 # Group members 
 *Under construction*
 ### Dr. Yavor Mitrev, Post-Doc
@@ -34,6 +35,6 @@ activity
 
 *Under construction*
 
-[this is linnk to page2](page2)
+
 
 
