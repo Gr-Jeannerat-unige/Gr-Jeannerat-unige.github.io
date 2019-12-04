@@ -1,7 +1,10 @@
 this is page 2
+
+[link to page 3](page3)
 # he
 sdf
-dsf
+![link to page 3](page3)
+
 df
 ## dfs
 
