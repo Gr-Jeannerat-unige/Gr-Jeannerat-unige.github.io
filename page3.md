@@ -412,8 +412,9 @@ Lecture au Centro de Investigaciones Biológicas de Madrid
 
 ### PublicationsV2
 
-<i>Nat. Prod. Rep.</i>, sous presse</li></ol>
-</div></a><a style="color:black;" href="publications?num=68"><div style="margin:0px;padding:0px;" onmouseover="this.style.backgroundColor='#e6e6e6'" onmouseout="this.style.backgroundColor='#ffffff'"><ol style="-webkit-padding-start:1.8em; margin:0px;padding-top:6px;padding-bottom:6px;"><li value="68" style="margin:0px;" class="pubNum">
+This is more complete, but not completely exaustive... but numbered!
+
+<a style="color:black;" href="publications?num=68"><div style="margin:0px;padding:0px;" onmouseover="this.style.backgroundColor='#e6e6e6'" onmouseout="this.style.backgroundColor='#ffffff'"><ol style="-webkit-padding-start:1.8em; margin:0px;padding-top:6px;padding-bottom:6px;"><li value="68" style="margin:0px;" class="pubNum">
 M. Pupier, J.-M. Nuzillard, J. Wist, N. E. Schlörer, S. Kuhn, M. Erdelyi, C. Steinbeck, A. J. Williams, C. Butts, T. D. W. Claridge, B. Mikhova, W. Robien, H. Dashti, H. R. Eghbalnia, C. Farès, C. Adam, P. Kessler, F. Moriaud, M. Elyashberg, D. Argyropoulos, M. Pérez, P. Giraudeau, R. R. Gil, P. Trevorrow et D. Jeannerat<br>&ldquo;NMReDATA, a standard to report the NMR assignment and parameters of organic compounds&rdquo;
 <br>
 <i>Magn. Reson. Chem.</i> <b>2018</b>, <i>56</i>, 703-715</li></ol>
@@ -686,7 +687,7 @@ D. Jeannerat et G. Bodenhausen<br>&ldquo;Determination of active scalar coupling
 <br>
 <i>J. Magn. Reson. Ser. A</i> <b>1995</b>, <i>117</i>, 123-127</li></ol>
     
-###  Former adress
+### Former adress
 
     Maître d'enseignement et de recherche
 
@@ -698,19 +699,10 @@ D. Jeannerat et G. Bodenhausen<br>&ldquo;Determination of active scalar coupling
     Damien.Jeannerat@unige.ch
 
 
-Affiliations
+### Former Affiliation
 
     Université de Genève
     Faculté des sciences
     Section de chimie et biochimie
     Département de chimie organique
 
-Université de Genève
-
-    24 rue du Général-Dufour
-    1211 Genève 4
-    T. +41 (0)22 379 71 11
-    F. +41 (0)22 379 11 34
-    Contacts
-    Plan d'accès et réservation de salles
-    L'UNIGE de A à Z
