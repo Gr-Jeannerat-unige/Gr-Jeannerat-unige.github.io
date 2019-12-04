@@ -1,6 +1,8 @@
-### Slowly restoring the website of Damien Jeannerat after departure from the department 
+### Slowly restoring the website of Damien Jeannerat after deletion from the unige website
+
 Many thanks to [Wayback Machine](https://archive.org/web/)
 https://www.unige.ch/sciences/chiorg/jeannerat/
+
 ### CV (English)
 Damien Jeannerat was born in Geneva, Switzerland in 1970. After graduation from the University of Geneva in chemistry and biochemistry in 1994, he entered a Ph.D. program in Nuclear Magnetic Resonance (NMR) methodology under the supervision of Geoffrey Bodenhausen at the National High Magnetic Field Laboratory at Florida State University in Tallahasse, Florida. In 1997 he completed his Ph.D. thesis, entitled "Progress in Cross-Peak Structure Analysis in Two-Dimensional NMR Spectroscopy" at the University of Lausanne. Between 1997 and 2019 he works at the Organic Chemistry Department at the University of Geneva, first as a post doctoral student, and then, as an group leader financed by the State and the Swiss National Fund. 
 ### CV (french)
@@ -132,44 +134,56 @@ Lecture au Centro de Investigaciones Biológicas de Madrid
 
 ### Publications1
 (no style)
-
-
+nmredata symposium paper:
+    72
+    Paul Trevorrow, Damien Jeannerat
+    "Reporting on the 1st NMReDATA Symposium, 26th September 2019, Porto, Portugal"
+    [Magn. Reson. Chem. 2019, in press].(https://onlinelibrary.wiley.com/doi/10.1002/mrc.4977)
+    71
+    Kirill F. Sheberstov, Eduard Sistaré Guardiola, Damien Jeannerat
+    "Everything you wanted to know about phase and reference frequency in one‐ and two‐dimensional NMR spectroscopy"
+    [Magn. Reson. Chem. 2019, in press].(https://onlinelibrary.wiley.com/doi/10.1002/mrc.4977)
+    70
+    Kirill F. Sheberstov, Eduard Sistaré Guardiola, Marion Pupier, Damien Jeannerat
+    "SAN plot: A graphical representation of the signal, noise, and artifacts content of spectra"
+    [Magn. Reson. Chem. 2019, in press].(https://onlinelibrary.wiley.com/doi/10.1002/mrc.4882)
+    69
     J. B. McAlpine, S.-N. Chen, A. Kutateladze, J. B. MacMillan, G. Appendino, A. Barison, M. A. Beniddir, M. W. Biavatti, S. Bluml, A. Boufridi, M. S. Butler, R. J. Capon, Y. H. Choi, D. Coppage, P. Crews, M. T. Crimmins, M. Csete, P. Dewapriya, J. M. Egan, M. J. Garson, G. Genta-Jouve, W. H. Gerwick, H. Gross, M. K. Harper, P. Hermanto, J. M. Hook, L. Hunter, D. Jeannerat, N.-Y. Ji, T. A. Johnson, D. G. I. Kingston, H. Koshino, H.-W. Lee, G. Lewin, J. Li, R. G. Linington, M. Liu, K. L. McPhail, T. F. Molinski, B. S. Moore, J.-W. Nam, R. P. Neupane, M. Niemitz, J.-M. Nuzillard, N. H. Oberlies, F. M. M. Ocampos, G. Pan, R. J. Quinn, D. S. Reddy, J.-H. Renault, J. Rivera-Chávez, W. Robien, C. M. Saunders, T. J. Schmidt, C. Seger, B. Shen, C. Steinbeck, H. Stuppner, S. Sturm, O. Taglialatela-Scafati, D. J. Tantillo, R. Verpoorte, B.-G. Wang, C. M. Williams, P. G. Williams, J. Wist, J.-M. Yue, C. Zhang, Z. Xu, C. Simmler, D. C. Lankin, J. Bisson et G. F. Pauli
     “The value of universally available raw NMR data for transparency, reproducibility, and integrity in natural product research”
     Nat. Prod. Rep., sous presse
-
+    68
     M. Pupier, J.-M. Nuzillard, J. Wist, N. E. Schlörer, S. Kuhn, M. Erdelyi, C. Steinbeck, A. J. Williams, C. Butts, T. D. W. Claridge, B. Mikhova, W. Robien, H. Dashti, H. R. Eghbalnia, C. Farès, C. Adam, P. Kessler, F. Moriaud, M. Elyashberg, D. Argyropoulos, M. Pérez, P. Giraudeau, R. R. Gil, P. Trevorrow et D. Jeannerat
     “NMReDATA, a standard to report the NMR assignment and parameters of organic compounds”
     Magn. Reson. Chem. 2018, 56, 703-715
-
+    67
     D. Jeannerat
     “Editorial of a special issue on "Software tools and tutorials in liquid state NMR"”
     Magn. Reson. in Chem. 2018, 56, 373
-
+    66
     M. Brucka, K. Sheberstov et D. Jeannerat
     “Homonuclear decoupling in the 13C indirect dimension of HSQC experiments for 13C-enriched compounds”
     Magn. Reson. Chem. 2018, 56, 1021-1028
-
+    65
     L. Klein-Júnior, S. Cretton, P.-M. Allard, G. Genta-Jouve, C. dos Santos Passos, J. Salton, P. Bertelli, M. Pupier, D. Jeannerat, Y. Vander Heyden, A. L. Gasper, J.-L. Wolfender, P. Christen et A. T. Henriques
     “Targeted Isolation of Monoterpene Indole Alkaloids from Palicourea sessilis”
     J. Nat. Prod. 2017, 80, 3032-3037
-
+    64
     K. Sheberstov, D. Sinitsyn, D. Cheshkov et D. Jeannerat
     “Elimination of signals tilting caused by B0 field inhomogeneity using 2D-lineshape reference deconvolution”
     J. Magn. Res. 2017, 281, 229-240
-
+    63
     D. Jeannerat
     “Analysis of the phases of signals in two-dimensional NMR”
     eMagRes; John Wiley and Sons, Inc, 2017; Volume 6, Issue 1; p. 161-172
-
+    62
     D. Jeannerat
     “Human- and computer-accessible 2D correlation data for a more reliable structure determination of organic compounds. Future roles of researchers, software developers, spectrometer managers, journal editors, reviewers, publisher and database managers towards artificial-intelligence analysis of NMR spectra”
     Magn. Reson. Chem. 2017, 55, 7-14
-
+    61
     Y. Mitrev, S. Simova et D. Jeannerat
     “NMR analysis of weak molecular interactions using slice-selective experiments via study of concentration gradients in agar gels”
     Chem. Commun. 2016, 52, 5418-5420
-
+    60
     G. Angulo, M. Brucka, M. Gerecke, G. Grampp, D. Jeannerat, J. Milkiewicz, Y. Mitrev, C. Radzewicz, A. Rosspeintner, E. Vauthey et P. Wnuk
     “Characterization of Dimethylsulfoxide / Glycerol Mixtures: A Binary Solvent System for the Study of "Friction-Dependent" Chemical Reactivity”
     Phys. Chem. Chem. Phys. 2016, 18, 18460-18469
@@ -412,7 +426,15 @@ Lecture au Centro de Investigaciones Biológicas de Madrid
 
 ### PublicationsV2
 
-This is more complete, but not completely exaustive... but numbered!
+This is more complete and numbered, but still, not completely exaustive... 
+nmredata symposium paper:
+https://onlinelibrary.wiley.com/doi/10.1002/mrc.4977
+
+Phase paper:
+https://onlinelibrary.wiley.com/doi/abs/10.1002/mrc.4938
+
+San plot paper
+https://onlinelibrary.wiley.com/doi/10.1002/mrc.4882
 
 <a style="color:black;" href="publications?num=68"><div style="margin:0px;padding:0px;" onmouseover="this.style.backgroundColor='#e6e6e6'" onmouseout="this.style.backgroundColor='#ffffff'"><ol style="-webkit-padding-start:1.8em; margin:0px;padding-top:6px;padding-bottom:6px;"><li value="68" style="margin:0px;" class="pubNum">
 M. Pupier, J.-M. Nuzillard, J. Wist, N. E. Schlörer, S. Kuhn, M. Erdelyi, C. Steinbeck, A. J. Williams, C. Butts, T. D. W. Claridge, B. Mikhova, W. Robien, H. Dashti, H. R. Eghbalnia, C. Farès, C. Adam, P. Kessler, F. Moriaud, M. Elyashberg, D. Argyropoulos, M. Pérez, P. Giraudeau, R. R. Gil, P. Trevorrow et D. Jeannerat<br>&ldquo;NMReDATA, a standard to report the NMR assignment and parameters of organic compounds&rdquo;
