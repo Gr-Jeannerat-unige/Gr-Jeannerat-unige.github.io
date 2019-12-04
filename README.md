@@ -8,14 +8,15 @@ The group from 2000 to 2019.
 High-resolution in 2D NMR
 
 # Group members 
-## Post-Doc 
 *Under construction*
-### Dr. Yavor Mitrev
+### Dr. Yavor Mitrev, Post-Doc
 - NMR titration in one-shot NMR experiment 
 
 ## PhD students 
 *Under construction*
 ## Master students 
+### Master student1
+activity
 *Under construction*
 
 # publications 
