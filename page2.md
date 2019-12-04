@@ -61,9 +61,9 @@ dfg dfs d dfas dfg a  dfgas  fds g sdg dfs g s dfggdfsgds fgs dfg ds fgsg ds gs 
 
 g
 dfg
-wor2d.[<sup>[ref.]</sup>](#2)
+wor1d.[<sup>[ref.]</sup>](#1)
 
-wor22d.[<sup>[ref2.]</sup>](# 2)
+wor2d.[<sup>[ref.]</sup>](#2)
 
 wor22d.[<sup>[ref2.]</sup>](#r1)
 
@@ -80,6 +80,5 @@ fg
 here is ref 1
 #### 2
 here is ref 2
-here is ref 1
 #### R1 
 here is ref R1
