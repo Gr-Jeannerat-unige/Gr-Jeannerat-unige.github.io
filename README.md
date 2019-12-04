@@ -9,18 +9,23 @@ The group was active from 2000 to 2019 at the Department of organic chemistry at
 
 # Group members 
 *Under construction*
-### Dr. Yavor Mitrev, Post-Doc
-- NMR titration in one-shot NMR experiment 
+### Dr. Bruno Vitorge, PhD Student, 2005-2009
+### Dr. Rupali Shivapurkar, PhD Student, 2008-2011
+### Dr. Gaétan Bayiha Ba Njock, PhD Student, 2009-2011
+Visiting from Yaounde I, Cameroon
+### Dr. Mohammadali Foroozandeh, PhD Student, 2009-2012
+### Dr. Karla Ramirez Gualito, Post-Doc, 2012-2014
+### Dr. Axelle Cotte, PhD Student, 2012-2015
+### Dr. Yavor Mitrev, Post-Doc, 2014-2015
+### Dr. Eduard Sistaré Guardiola, PhD Student, -2019
+### Dr. Marta Bruka, PhD Student, -2019
+### Dr. Kirill Sheberstov, PhD Student, 2016
+Visiting scientist in 2016
+# Technical staff 
+### M. André Pinto
+### Ms-Ba Marion Pupier
 
-## PhD students 
-*Under construction*
-## Master students 
-### Master student1
-activity
-*Under construction*
-
-# publications 
-
+# Master Students 
 *Under construction*
 
 # funding 
