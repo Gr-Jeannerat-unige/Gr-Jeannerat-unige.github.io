@@ -32,6 +32,9 @@ Visiting scientist in 2016
 
 *Under construction*
 
+# Publication 
+List of [publication](publicationUnige) (compiled by University of Geneva) 
+
 # Conference organization 
 
 - co-organization of the [1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/) 26 Sept 2019, Porto, Portugal
