@@ -3,12 +3,13 @@
 The group was active from 2000 to 2019 at the Department of organic chemistry at the University of Geneva.
 
 # Research interests 
+*Under construction*
+
 - [High-resolution in 2D NMR](page2)
 - [Special processing techniques](page3)
 - [Tutorials](page4)
 
 # Group members 
-*Under construction*
 ### Dr. Bruno Vitorge, PhD Student, 2005-2009
 ### Dr. Rupali Shivapurkar, PhD Student, 2008-2011
 ### Dr. Gaétan Bayiha Ba Njock, PhD Student, 2009-2011
@@ -17,9 +18,9 @@ Visiting from Yaounde I, Cameroon
 ### Dr. Karla Ramirez Gualito, Post-Doc, 2012-2014
 ### Dr. Axelle Cotte, PhD Student, 2012-2015
 ### Dr. Yavor Mitrev, Post-Doc, 2014-2015
-### Dr. Eduard Sistaré Guardiola, PhD Student, -2019
-### Dr. Marta Bruka, PhD Student, -2019
 ### Dr. Kirill Sheberstov, PhD Student, 2016
+### Dr. Marta Bruka, PhD Student, -2019
+### Dr. Eduard Sistaré Guardiola, PhD Student, -2019
 Visiting scientist in 2016
 # Technical staff 
 ### M. André Pinto
