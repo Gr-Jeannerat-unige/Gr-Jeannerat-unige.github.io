@@ -1,1 +1,1 @@
-<script type="text/javascript" src="//archive-ouverte.unige.ch/author_bibliography.js?id=629126&csl=american-chemical-society&sort=year&group_type=true&group_year=false&with_abstract=true&with_vignette=true&uid=32"></script>
+<script type="text/javascript" src="//archive-ouverte.unige.ch/author_bibliography.js?id=629126&csl=american-chemical-society&sort=year&group_type=true&group_year=false&with_abstract=true&uid=32"></script>
