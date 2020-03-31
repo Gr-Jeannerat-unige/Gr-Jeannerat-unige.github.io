@@ -10,7 +10,8 @@ The group was active from 2000 to 2019 at the Department of organic chemistry at
 - [Tutorials](page4)
 
 # Group members 
-### Dr. Bruno Vitorge, PhD Student, 2005-2009
+### Dr. Bruno Vitorge, PhD Student, 2005-2009 
+[Publications](PublicationsVitorge.md)
 ### Dr. Rupali Shivapurkar, PhD Student, 2008-2011
 ### Dr. Gaétan Bayiha Ba Njock, PhD Student, 2009-2011
 Visiting from Yaounde I, Cameroon
