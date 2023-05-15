@@ -6,7 +6,7 @@ The group was active from 2000 to 2019 at the Department of organic chemistry at
 *Under construction*
 
 - [High-resolution in 2D NMR](page2)
-- [Special processing techniques](page3)
+- [CV and publication list](page3)
 - [Tutorials](page4)
 
 # Group members 
