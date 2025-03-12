@@ -1,6 +1,7 @@
 # Dr. Damien Jeannerat
 
 Damien Jeannerat is an expert in Nuclear Magnetic Resonance (NMR) spectroscopy, with a strong focus on methodological developments and computational processing techniques for high-resolution spectral analysis. His work spans various areas of NMR, particularly in small molecule characterization, signal processing, spectral aliasing, and data standardization.
+
 Key Areas of Expertise:
 
 ### NMR Method Development & Computational Enhancements
@@ -31,9 +32,7 @@ Key Areas of Expertise:
 
 ## Academic at University of Geneva from 2000 to 2019:
 
-    Authored numerous high-impact research articles in Magnetic Resonance in Chemistry, Journal of Magnetic Resonance, Angewandte Chemie, and other leading journals.
-    Published book chapters on NMR signal processing, spectral aliasing, and multidimensional spectroscopy.
-    Supervised doctoral research focused on high-resolution 2D NMR, aliasing techniques, and signal deconvolution.
+Authored numerous high-impact research articles in Magnetic Resonance in Chemistry, Journal of Magnetic Resonance, Angewandte Chemie, and other leading journals. Published book chapters on NMR signal processing, spectral aliasing, and multidimensional spectroscopy. Supervised doctoral research focused on high-resolution 2D NMR, aliasing techniques, and signal deconvolution.
 
 - [CV and publication list](page3)
 
@@ -55,12 +54,10 @@ Visiting scientist in 2016
 ### M. André Pinto
 ### Ms-Ba Marion Pupier
 
-# Master Students 
-*Under construction*
 
 # funding 
 
-*Under construction*
+Multiple funding, by the Swiss National Fond for a total of 6 PhD students and diverse analytical equipment.
 
 # Publication 
 List of [publication](publicationUnige) (compiled by University of Geneva) 
