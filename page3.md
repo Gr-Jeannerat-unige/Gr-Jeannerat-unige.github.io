@@ -709,22 +709,4 @@ D. Jeannerat et G. Bodenhausen<br>&ldquo;Determination of active scalar coupling
 <br>
 <i>J. Magn. Reson. Ser. A</i> <b>1995</b>, <i>117</i>, 123-127</li></ol>
     
-### Former adress
-
-    Maître d'enseignement et de recherche
-
-    Université de Genève
-    Bâtiment Sciences II
-    30 quai Ernest Ansermet
-    1211 Genève 4 Bureau R1
-    T. +41 (0)22 379 60 84
-    Damien.Jeannerat@unige.ch
-
-
-### Former Affiliation
-
-    Université de Genève
-    Faculté des sciences
-    Section de chimie et biochimie
-    Département de chimie organique
 
