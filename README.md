@@ -1,13 +1,41 @@
-## Group Jeannerat
+# Presentation
 
-The group was active from 2000 to 2019 at the Department of organic chemistry at the University of Geneva.
+Damien Jeannerat is an expert in Nuclear Magnetic Resonance (NMR) spectroscopy, with a strong focus on methodological developments and computational processing techniques for high-resolution spectral analysis. His work spans various areas of NMR, particularly in small molecule characterization, signal processing, spectral aliasing, and data standardization.
+Key Areas of Expertise:
 
-# Research interests 
-*Under construction*
+### NMR Method Development & Computational Enhancements
+- Spectral aliasing to enhance resolution in multidimensional NMR.
+- Phase and reference frequency analysis in 1D and 2D NMR.
+- Homonuclear and heteronuclear decoupling techniques for improved resolution.
+- Graphical representation of signal-to-noise and artifacts (SAN Plot).
+- Computer-optimized spectral processing for peak deconvolution.
 
-- [High-resolution in 2D NMR](page2)
+### Application of NMR to Organic and Natural Products Chemistry
+- Structure elucidation of complex organic molecules and natural products (e.g., alkaloids, oligosaccharides, and pharmaceuticals).
+- Use of high-resolution HSQC and chemical shift aliasing for data enhancement.
+- Application of NMR to drug formulations, such as glaucoma treatments and controlled-release pharmaceuticals.
+
+### NMR Standardization & Data Integrity
+- Development of NMReDATA, a standardized format for reporting NMR parameters.
+- Advocacy for open-access raw NMR data to ensure reproducibility and transparency in research.
+
+### Instrumentation & Experimental Techniques
+- Development of new pulse sequences for ultrahigh-resolution NMR.
+- Advanced 2D and multidimensional NMR methods for resolving overlapping signals.
+- Use of slice-selective experiments for weak molecular interactions.
+
+### Interdisciplinary Applications of NMR
+- NMR-based discrimination of polymers and flame retardants in materials science.
+- Study of diffusivity in hydrogels for pharmaceutical applications.
+- Real-time monitoring of dynamic molecular systems using HSQC.
+
+## Academic at University of Geneva from 2000 to 2019:
+
+    Authored numerous high-impact research articles in Magnetic Resonance in Chemistry, Journal of Magnetic Resonance, Angewandte Chemie, and other leading journals.
+    Published book chapters on NMR signal processing, spectral aliasing, and multidimensional spectroscopy.
+    Supervised doctoral research focused on high-resolution 2D NMR, aliasing techniques, and signal deconvolution.
+
 - [CV and publication list](page3)
-- [Tutorials](page4)
 
 # Group members 
 ### Dr. Bruno Vitorge, PhD Student, 2005-2009 
