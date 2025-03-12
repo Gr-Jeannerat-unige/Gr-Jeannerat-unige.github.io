@@ -1,6 +1,6 @@
 # Dr. Damien Jeannerat
 
-Damien Jeannerat is an expert in Nuclear Magnetic Resonance (NMR) spectroscopy, with a strong focus on methodological developments and computational processing techniques for high-resolution spectral analysis. His work spans various areas of NMR, particularly in small molecule characterization, signal processing, spectral aliasing, and data standardization.
+Damien Jeannerat is an expert in Nuclear Magnetic Resonance (NMR) spectroscopy, with a strong focus on methodological developments and computational processing techniques. His work spans various areas of NMR, particularly in small molecule characterization, signal processing, spectral aliasing, and data standardization.
 
 Key Areas of Expertise:
 
