@@ -30,7 +30,7 @@ Key Areas of Expertise:
 - Study of diffusivity in hydrogels for pharmaceutical applications.
 - Real-time monitoring of dynamic molecular systems using HSQC.
 
-## Academic at University of Geneva from 2000 to 2019:
+## Academic at University of Geneva from 2000 to 2019
 
 Authored numerous high-impact research articles in Magnetic Resonance in Chemistry, Journal of Magnetic Resonance, Angewandte Chemie, and other leading journals. Published book chapters on NMR signal processing, spectral aliasing, and multidimensional spectroscopy. Supervised doctoral research focused on high-resolution 2D NMR, aliasing techniques, and signal deconvolution.
 
