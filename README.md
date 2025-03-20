@@ -55,19 +55,20 @@ Visiting scientist in 2016
 ### Ms-Ba Marion Pupier
 
 
-# funding 
+# Funding 
 
 Multiple funding, by the Swiss National Fond for a total of 6 PhD students and diverse analytical equipment.
 
 # Publication 
-List of [publication](publicationUnige) (compiled by University of Geneva) 
+List of [publications](publicationUnige) (compiled by University of Geneva) 
 
 # Conference organization 
 
 - co-organization of the [1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/) 26 Sept 2019, Porto, Portugal
 - co-organization of the [XXIII Swiss NMR symposium](https://indico.cern.ch/event/775177/) 14 Jan 2019, CERN/Meyrin, Switzerland
+- co-organization of the [XVIII Swiss NMR symposium](XVIIISwissSymposium) 9 Sept 2009, CERN/Meyrin, Switzerland
 
-*Under construction*
+
 
 
 
