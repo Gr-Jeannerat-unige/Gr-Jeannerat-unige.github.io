@@ -47,9 +47,9 @@ Visiting from Yaounde I, Cameroon
 ### Dr. Axelle Cotte, PhD Student, 2012-2015
 ### Dr. Yavor Mitrev, Post-Doc, 2014-2015
 ### Dr. Kirill Sheberstov, PhD Student, 2016
+Visiting scientist in 2016
 ### Dr. Marta Bruka, PhD Student, -2019
 ### Dr. Eduard Sistaré Guardiola, PhD Student, -2019
-Visiting scientist in 2016
 # Technical staff 
 ### M. André Pinto
 ### Ms-Ba Marion Pupier
