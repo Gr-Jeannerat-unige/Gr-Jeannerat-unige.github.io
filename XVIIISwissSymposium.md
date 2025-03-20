@@ -1,6 +1,6 @@
 # Conference Program
 
-### 9:09 - Welcome Coffee
+#### 9:09 - Welcome Coffee
 
 ### 9:40 - Opening Remarks
 **Dr. Damien Jeannerat**  
@@ -26,7 +26,7 @@ _Institute of Organic Chemistry, University of Zurich_
 **Dr. Cyril Dominguez**  
 _Institute of Molecular Biology and Biophysics, ETH Zurich_
 
-### 11:00 - Coffee Break
+#### 11:00 - Coffee Break
 
 ### 11:30 - The H1 Domain of the Asialoglycoprotein Receptor: Towards a Structural Understanding of Receptor-Mediated Endocytosis
 **Dr. Brian Cutting**  
@@ -48,7 +48,7 @@ _Biozentrum, University of Basel_
 **Dr. Paul Vasos**  
 _Laboratory of Biomolecular Magnetic Resonance, EPFL Lausanne_
 
-### 12:45 - Lunch Break
+#### 12:45 - Lunch Break
 
 ### 14:00 - Evolution of LC-NMR to At-line Microflow-NMR (CapNMR): Efficient Strategies for the Rapid Characterization of Natural Products in Complex Matrices
 **Prof. Jean-Luc Wolfender**  
@@ -70,7 +70,7 @@ _Department of Chemistry and Biochemistry, University of Bern_
 **Dr. Detlef Moskau**  
 _Bruker-BioSpin AG_
 
-### 15:15 - Coffee Break
+#### 15:15 - Coffee Break
 
 ### 15:45 - Two-Dimensional Linear-Combination Model Fitting of Magnetic Resonance Spectra Using FiTAID
 **Mr. Daniel Chong**  
@@ -96,7 +96,7 @@ _Laboratory of Biomolecular Magnetic Resonance, EPFL Lausanne_
 **Dr. Damien Jeannerat**  
 _Department of Organic Chemistry, University of Geneva_
 
-### 17:05 - Apéro
+#### 17:05 - Apéro
 
 ## Our Sponsors
 
