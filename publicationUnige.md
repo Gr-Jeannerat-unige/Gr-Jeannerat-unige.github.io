@@ -4,3 +4,4 @@
 <div id="bibliography_container_1583843682"></div>
 *Only University of Geneva publications*
 
+If this above list does not work, look at [this static version](damienjeanneratStatic.md).
