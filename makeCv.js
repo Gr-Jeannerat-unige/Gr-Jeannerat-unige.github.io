@@ -38,7 +38,7 @@ var scientificArticles = [
 	},
 	{
 		title:
-			"Homonuclear Decoupling in the 13C Indirect Dimension of HSQC Experiments for 13C-Enriched Compounds",
+			"Homonuclear Decoupling in the <sup>13</sup>C Indirect Dimension of HSQC Experiments for <sup>13</sup>C-Enriched Compounds",
 		authors: "Brucka, A.; Sheberstov, K.; Jeannerat, D.",
 		journal: "Magnetic Resonance in Chemistry",
 		year: 2018,
@@ -205,7 +205,7 @@ scientificArticles.push({
 
 scientificArticles.push({
 	title:
-		"1D NMR Homodecoupled 1H Spectra with Scalar Coupling Constants from 2D NemoZS-DIAG Experiments",
+		"1D NMR Homodecoupled <sup>1</sup>H Spectra with Scalar Coupling Constants from 2D NemoZS-DIAG Experiments",
 	authors: "Cotte, A.; Jeannerat, D.",
 	journal: "Angewandte Chemie",
 	year: 2015,
@@ -228,7 +228,7 @@ scientificArticles.push({
 
 scientificArticles.push({
 	title:
-		"A Toolbox of HSQC Experiments for Small Molecules at High 13C-Enrichment. Artifact-Free, Fully 13C-Homodecoupled and JCC-Encoding Pulse Sequences",
+		"A Toolbox of HSQC Experiments for Small Molecules at High <sup>13</sup>C-Enrichment. Artifact-Free, Fully <sup>13</sup>C-Homodecoupled and J<sub>CC</sub>-Encoding Pulse Sequences",
 	authors: "Foroozandeh, M.; Giraudeau, P.; Jeannerat, D.",
 	journal: "Magnetic resonance in chemistry",
 	year: 2013,
@@ -276,7 +276,7 @@ scientificArticles.push({
 });
 scientificArticles.push({
 	title:
-		"Cotte, A.; Foroozandeh, M.; Jeannerat, D. Combination of Homonuclear Decoupling and Spectral Aliasing to Increase the Resolution in the 1H Dimension of 2D NMR Experiments",
+		"Cotte, A.; Foroozandeh, M.; Jeannerat, D. Combination of Homonuclear Decoupling and Spectral Aliasing to Increase the Resolution in the <sup>1</sup>H Dimension of 2D NMR Experiments",
 	authors: "Cotte, A.; Foroozandeh, M.; Jeannerat, D.",
 	journal: "Chimia",
 	year: 2012,
@@ -300,7 +300,7 @@ scientificArticles.push({
 });
 
 scientificArticles.push({
-	title: "NMR Experiments for the Analysis of Mixtures: Beyond 1D 1H Spectra",
+	title: "NMR Experiments for the Analysis of Mixtures: Beyond 1D <sup>1</sup>H Spectra",
 	authors: "Jeannerat, D.; Furrer, J.",
 	journal: "Combinatorial chemistry & high throughput screening",
 	year: 2012,
@@ -350,7 +350,7 @@ scientificArticles.push({
 
 scientificArticles.push({
 	title:
-		"Broadband 13C-Homodecoupled Heteronuclear Single-Quantum Correlation Nuclear Magnetic Resonance",
+		"Broadband <sup>13</sup>C-Homodecoupled Heteronuclear Single-Quantum Correlation Nuclear Magnetic Resonance",
 	authors: "Foroozandeh, M.; Giraudeau, P.; Jeannerat, D.",
 	journal: "ChemPhysChem",
 	year: 2011,
@@ -373,7 +373,7 @@ scientificArticles.push({
 
 scientificArticles.push({
 	title:
-		"Determination of the Relative pKa’s of Mixtures of Organic Acids Using NMR Titration Experiments Based on Aliased 1H–13C HSQC Spectra",
+		"Determination of the Relative pKa’s of Mixtures of Organic Acids Using NMR Titration Experiments Based on Aliased <sup>1</sup>H–<sup>13</sup>C HSQC Spectra",
 	authors: "Shivapurkar, R.; Jeannerat, D.",
 	journal: "Analytical methods",
 	year: 2011,
@@ -484,7 +484,7 @@ scientificArticles.push({
 
 scientificArticles.push({
 	title:
-		"Mazet, C.; Zumbuehl, A.; Jeannerat, D.; Mareda, J.; Alexakis, A.; Kundig, E. P.; Lacour, J.; Matile, S. Organic Chemistry À La Genevoise",
+		"Organic Chemistry À La Genevoise",
 	authors:
 		"Mazet, C.; Zumbuehl, A.; Jeannerat, D.; Mareda, J.; Alexakis, A.; Kundig, E. P.; Lacour, J.; Matile, S.",
 	journal: "Chimia",
@@ -498,7 +498,7 @@ scientificArticles.push({
 scientificArticles.push(
 	{
 		title:
-			"Vitorge, B.; Bieri, S.; Humam, M.; Christen, P.; Hostettmann, K.; Muñoz, O.; Loss, S.; Jeannerat, D. High-Precision Heteronuclear 2D NMR Experiments Using 10-Ppm Spectral Window to Resolve Carbon Overlap",
+			"High-Precision Heteronuclear 2D NMR Experiments Using 10-Ppm Spectral Window to Resolve Carbon Overlap",
 		authors:
 			"Vitorge, B.; Bieri, S.; Humam, M.; Christen, P.; Hostettmann, K.; Muñoz, O.; Loss, S.; Jeannerat, D.",
 		journal: "Chemical communications",
@@ -546,7 +546,7 @@ scientificArticles.push(
 	},
 	{
 		title:
-			"Real-Time Monitoring of a Dynamic Molecular System Using 1H-13C HSQC NMR Spectroscopy with an Optimized 13C Window",
+			"Real-Time Monitoring of a Dynamic Molecular System Using <sup>1</sup>H-<sup>13</sup>C HSQC NMR Spectroscopy with an Optimized <sup>13</sup>C Window",
 		authors:
 			"Gasparini, G.; Vitorge, B.; Scrimin, P.; Jeannerat, D.; Prins, L. J.",
 		journal: "Chemical communications",
@@ -581,7 +581,7 @@ scientificArticles.push(
 	},
 	{
 		title:
-			"Computer Optimized Spectral Aliasing in the Indirect Dimension of 1H- 13C Heteronuclear 2D NMR Experiments. A New Algorithm and Examples of Applications to Small Molecules",
+			"Computer Optimized Spectral Aliasing in the Indirect Dimension of <sup>1</sup>H- <sup>13</sup>C Heteronuclear 2D NMR Experiments. A New Algorithm and Examples of Applications to Small Molecules",
 		authors: "Jeannerat, D.",
 		journal: "Journal of magnetic resonance",
 		year: 2007,
@@ -681,7 +681,7 @@ const doctoralTheses = [
 	},
 	{
 		title:
-			"High Resolution in 2D NMR Using Spectral Aliasing: Application to the Determination of pKa’s by Automated NMR Titration and the Study of 13C-Enriched Cholesterol",
+			"High Resolution in 2D NMR Using Spectral Aliasing: Application to the Determination of pKa’s by Automated NMR Titration and the Study of <sup>13</sup>C-Enriched Cholesterol",
 		authors: "Shivapurkar, R.",
 		year: 2011,
 		type: "Doctoral Thesis",
