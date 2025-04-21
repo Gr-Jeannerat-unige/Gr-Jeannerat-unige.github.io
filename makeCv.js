@@ -729,9 +729,9 @@ function formatBookChapter(chapter) {
 }
 
 function formatDoctoralThesis(thesis) {
-	return `- **${thesis.title}**  
-    ${thesis.authors}  (${thesis.year})
-     [${thesis.doi}](${thesis.doi})\n\n`;
+	return `- ${thesis.authors}  (${thesis.year})
+	**${thesis.title}**  
+    [${thesis.doi}](${thesis.doi})\n\n`;
 }
 
 // Append all sections
