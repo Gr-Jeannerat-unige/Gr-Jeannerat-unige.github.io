@@ -275,27 +275,33 @@
 
 
 ### PhD student thesis
-- Brucka, M.  (2019)
+- Brucka, M.  (2019) 
+
 	**Complementarity of Decoupling Elements with Respect to Spectral Quality in 2D Pure-Shift Homonuclear Experiments**  
     [https://doi.org/10.13097/archive-ouverte/unige:127380](https://doi.org/10.13097/archive-ouverte/unige:127380)
 
-- Sistare Guardiola, E.  (2019)
+- Sistare Guardiola, E.  (2019) 
+
 	**Top Resolution in 2D NMR Experiments Combining Chemical Shift Encoded Aliased Spectra and Spectral Reconstruction**  
     [https://doi.org/10.13097/archive-ouverte/unige:118011](https://doi.org/10.13097/archive-ouverte/unige:118011)
 
-- Cotte, A.  (2015)
+- Cotte, A.  (2015) 
+
 	**From 2D to 1D Homodecoupled High-Resolution Proton NMR**  
     [https://doi.org/10.13097/archive-ouverte/unige:75760](https://doi.org/10.13097/archive-ouverte/unige:75760)
 
-- Foroozandeh, M.  (2012)
+- Foroozandeh, M.  (2012) 
+
 	**NMR Pulse Sequence Developments for High Resolution in Heteronuclear 2D Experiments**  
     [https://doi.org/10.13097/archive-ouverte/unige:36984](https://doi.org/10.13097/archive-ouverte/unige:36984)
 
-- Shivapurkar, R.  (2011)
+- Shivapurkar, R.  (2011) 
+
 	**High Resolution in 2D NMR Using Spectral Aliasing: Application to the Determination of pKa’s by Automated NMR Titration and the Study of 13C-Enriched Cholesterol**  
     [https://doi.org/10.13097/archive-ouverte/unige:17300](https://doi.org/10.13097/archive-ouverte/unige:17300)
 
-- Vitorge, B.  (2009)
+- Vitorge, B.  (2009) 
+
 	**Applications Du Repliement Spectral En RMN À Deux Dimensions**  
     [https://doi.org/10.13097/archive-ouverte/unige:2024](https://doi.org/10.13097/archive-ouverte/unige:2024)
 
