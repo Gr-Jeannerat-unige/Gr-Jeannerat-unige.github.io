@@ -62,6 +62,8 @@ Multiple funding, by the Swiss National Fond for a total of 6 PhD students and d
 # Publication 
 List of [publications](publicationUnige) (compiled by University of Geneva) 
 
+[Alternative static list](damienjeanneratStatic.md)
+
 # Conference organization 
 
 - co-organization of the [1st NMReDATA symposium](https://nmredata.org/wiki/Symposium2019/) 26 Sept 2019, Porto, Portugal
