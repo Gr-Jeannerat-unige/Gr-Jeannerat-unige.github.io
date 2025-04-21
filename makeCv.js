@@ -729,7 +729,7 @@ function formatBookChapter(chapter) {
 }
 
 function formatDoctoralThesis(thesis) {
-	return `- ${thesis.authors}  (${thesis.year}) \n
+	return `- Dr. ${thesis.authors}  (${thesis.year}) \n
 	**${thesis.title}**  
     [${thesis.doi}](${thesis.doi})\n\n`;
 }
